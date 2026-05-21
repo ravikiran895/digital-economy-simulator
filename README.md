@@ -1,6 +1,8 @@
 # 🪙 Digital Economy Systems Simulator
 
 **A product-strategy sandbox for digital economies.**
+Demo Live Link: https://digital-economy-simulator.streamlit.app/
+
 
 Pick a scenario or move the levers, and watch inflation, retention, marketplace
 health, and revenue respond — with a live **Economy Health** status and a written
