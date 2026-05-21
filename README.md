@@ -1,6 +1,8 @@
 # 🪙 Digital Economy Systems Simulator
 
 **A product-strategy sandbox for digital economies.**
+
+
 Demo Live Link: https://digital-economy-simulator.streamlit.app/
 
 
